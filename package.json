@@ -1,0 +1,24 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "webporto js",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ardianhash/ozan.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Ardianhash/ozan/issues"
+  },
+  "homepage": "https://github.com/Ardianhash/ozan#readme",
+  "devDependencies": {
+    "jest": "^30.0.4"
+  }
+}
